@@ -1,0 +1,16 @@
+package br.com.fiap.primeiro.projeto;
+
+public class ExemploOperadoresAritmeticos {
+	
+	public static void main(String[] args) {
+		// Calcular a área do triângulo
+		double base = 6.5;
+		double altura = 15.0;
+		double area = (base * altura) / 2;
+		System.out.println("Área do triângulo: " + area);
+		
+		// Calcular a média final (2 notas no primero semestre, valendo 40%)
+		// média das 2 notas no seguindo semestre valendo 60%
+		
+	}
+}

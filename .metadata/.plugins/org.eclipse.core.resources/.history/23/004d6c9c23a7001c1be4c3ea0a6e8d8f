@@ -1,0 +1,10 @@
+package br.com.fiap.primeiro.projeto;
+
+public class Produto {
+	String nome;
+	int quantidade;
+	long id;
+	double preco;
+	boolean disponivel;
+	char dimensao;
+}
