@@ -2,4 +2,8 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="br.com.fiap.exercicio.classes.Elevador"/>
+    <fullyQualifiedTypeName name="br.com.fiap.classes.Cliente"/>
+    <fullyQualifiedTypeName name="br.com.fiap.classes.Endereco"/>
+    <fullyQualifiedTypeName name="br.com.fiap.classes.ContaCorrente"/>
 </qualifiedTypeNameHistroy>
